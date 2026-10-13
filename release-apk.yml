@@ -1,0 +1,52 @@
+name: İmzalı Sürüm APK
+
+# Play Store dışında paylaşmak için imzalı (release) APK üretir.
+# Depo Ayarları > Secrets bölümüne şu değerleri ekle:
+#   KEYSTORE_BASE64, KEYSTORE_PASSWORD, KEY_ALIAS, KEY_PASSWORD
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - uses: android-actions/setup-android@v3
+
+      - name: Paketleri kur
+        run: npm install --no-audit --no-fund
+
+      - name: Android projesini üret
+        run: npx expo prebuild --platform android --no-install
+
+      - name: Keystore dosyasını çöz
+        run: |
+          echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > android/app/release.keystore
+
+      - name: İmzalı APK derle
+        working-directory: android
+        run: |
+          chmod +x ./gradlew
+          ./gradlew assembleRelease --no-daemon \
+            -Pandroid.injected.signing.store.file=$PWD/app/release.keystore \
+            -Pandroid.injected.signing.store.password=${{ secrets.KEYSTORE_PASSWORD }} \
+            -Pandroid.injected.signing.key.alias=${{ secrets.KEY_ALIAS }} \
+            -Pandroid.injected.signing.key.password=${{ secrets.KEY_PASSWORD }}
+
+      - name: APK yükle
+        uses: actions/upload-artifact@v4
+        with:
+          name: yks-koc-release-apk
+          path: android/app/build/outputs/apk/release/app-release.apk
+          if-no-files-found: error

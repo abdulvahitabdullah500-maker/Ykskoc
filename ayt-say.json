@@ -1,0 +1,541 @@
+[
+ {
+  "id": "ayt-say-matematik",
+  "track": "ayt-say",
+  "name": "Matematik",
+  "icon": "∫",
+  "questionCount": 40,
+  "color": "#1D4ED8",
+  "topics": [
+   {
+    "id": "ayt-say-matematik-1",
+    "name": "Fonksiyonlar",
+    "subs": [
+     "Fonksiyon çeşitleri",
+     "Bileşke ve ters fonksiyon",
+     "Fonksiyon grafikleri ve dönüşümler"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-2",
+    "name": "Polinomlar",
+    "subs": [
+     "Polinom kavramı ve derece",
+     "Polinomlarda bölme",
+     "Kalan teoremi, çarpanlara ayırma"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-3",
+    "name": "İkinci Dereceden Denklemler",
+    "subs": [
+     "Kökler ve katsayılar ilişkisi",
+     "Diskriminant",
+     "Kökleri verilen denklem",
+     "Eşitsizlik sistemleri"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-4",
+    "name": "Karmaşık Sayılar",
+    "subs": [
+     "Karmaşık sayının tanımı",
+     "İşlemler ve eşlenik",
+     "Kutupsal gösterim",
+     "Kökler"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-5",
+    "name": "Logaritma",
+    "subs": [
+     "Üstel ve logaritmik fonksiyon",
+     "Logaritma özellikleri",
+     "Logaritmik denklemler ve eşitsizlikler"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-6",
+    "name": "Diziler",
+    "subs": [
+     "Dizi kavramı",
+     "Aritmetik dizi",
+     "Geometrik dizi",
+     "Seriler ve toplam"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-7",
+    "name": "Trigonometri",
+    "subs": [
+     "Birim çember ve trigonometrik oranlar",
+     "Trigonometrik özdeşlikler",
+     "Toplam-fark, yarım açı formülleri",
+     "Trigonometrik denklemler",
+     "Sinüs ve kosinüs teoremi"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-8",
+    "name": "Limit ve Süreklilik",
+    "subs": [
+     "Limit kavramı",
+     "Belirsizlikler",
+     "Süreklilik"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-9",
+    "name": "Türev",
+    "subs": [
+     "Türev tanımı ve kuralları",
+     "Zincir kuralı",
+     "Teğet ve normal denklemi",
+     "Ekstremum noktalar, artan-azalanlık",
+     "Optimizasyon problemleri"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-10",
+    "name": "İntegral",
+    "subs": [
+     "Belirsiz integral ve temel kurallar",
+     "Değişken değiştirme",
+     "Belirli integral",
+     "Alan ve hacim hesabı"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-11",
+    "name": "Analitik Geometri",
+    "subs": [
+     "Doğru analitiği",
+     "Çember analitiği",
+     "Konik: parabol, elips, hiperbol"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-12",
+    "name": "Uzay Geometri",
+    "subs": [
+     "Katı cisimler ve hacim",
+     "Yüzey alanı problemleri"
+    ]
+   },
+   {
+    "id": "ayt-say-matematik-13",
+    "name": "Permütasyon-Kombinasyon-Olasılık-Binom",
+    "subs": [
+     "İleri sayma teknikleri",
+     "Koşullu olasılık",
+     "Binom ve olasılık uygulamaları"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-say-fizik",
+  "track": "ayt-say",
+  "name": "Fizik",
+  "icon": "🧲",
+  "questionCount": 14,
+  "color": "#0E7490",
+  "topics": [
+   {
+    "id": "ayt-say-fizik-1",
+    "name": "Vektörler ve Kuvvet",
+    "subs": [
+     "Vektör işlemleri",
+     "Bileşke kuvvet",
+     "Denge koşulları"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-2",
+    "name": "Tork ve Denge",
+    "subs": [
+     "Tork kavramı",
+     "Kütle merkezi",
+     "Basit makineler"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-3",
+    "name": "Newton'un Hareket Yasaları",
+    "subs": [
+     "Hareket yasaları",
+     "Sürtünmeli sistemler",
+     "Eğik düzlem",
+     "Asansör problemleri"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-4",
+    "name": "İş, Güç, Enerji",
+    "subs": [
+     "İş-enerji teoremi",
+     "Korunumlu kuvvetler",
+     "Güç ve verim"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-5",
+    "name": "İtme ve Momentum",
+    "subs": [
+     "Momentum kavramı",
+     "İtme",
+     "Çarpışmalar",
+     "Roket hareketi"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-6",
+    "name": "Düzgün Çembersel Hareket",
+    "subs": [
+     "Merkezcil kuvvet ve ivme",
+     "Yatay-düşey çembersel hareket",
+     "Dönme hareketi"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-7",
+    "name": "Basit Harmonik Hareket",
+    "subs": [
+     "Yay sarkacı",
+     "Basit sarkaç",
+     "Periyot ve frekans"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-8",
+    "name": "Kütle Çekimi ve Kepler Yasaları",
+    "subs": [
+     "Newton'un çekim yasası",
+     "Kepler yasaları",
+     "Uydular"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-9",
+    "name": "Elektrik Alan ve Potansiyel",
+    "subs": [
+     "Coulomb yasası",
+     "Elektrik alan",
+     "Elektriksel potansiyel ve iş"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-10",
+    "name": "Elektrik Akımı ve Devreler",
+    "subs": [
+     "Ohm yasası ve direnç",
+     "Kirchhoff yasaları",
+     "Kondansatörler",
+     "Manyetik alan ve akım etkisi"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-11",
+    "name": "İndüksiyon ve Alternatif Akım",
+    "subs": [
+     "Manyetik akı",
+     "Faraday-Lenz yasası",
+     "Transformatörler"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-12",
+    "name": "Dalgalar ve Optik",
+    "subs": [
+     "Dalga özellikleri",
+     "Işığın kırılması ve girişimi",
+     "Kırınım ve polarizasyon"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-13",
+    "name": "Modern Fizik",
+    "subs": [
+     "Özel görelilik",
+     "Fotoelektrik olay",
+     "Compton ve de Broglie",
+     "Atom modelleri ve spektrumlar"
+    ]
+   },
+   {
+    "id": "ayt-say-fizik-14",
+    "name": "Atom Çekirdeği ve Radyoaktivite",
+    "subs": [
+     "Çekirdek yapısı",
+     "Radyoaktif bozunma",
+     "Fisyon ve füzyon"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-say-kimya",
+  "track": "ayt-say",
+  "name": "Kimya",
+  "icon": "⚗️",
+  "questionCount": 13,
+  "color": "#C2410C",
+  "topics": [
+   {
+    "id": "ayt-say-kimya-1",
+    "name": "Modern Atom Teorisi",
+    "subs": [
+     "Kuantum sayıları",
+     "Elektron dizilimi",
+     "Periyodik özellikler"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-2",
+    "name": "Gazlar",
+    "subs": [
+     "Gaz yasaları (Boyle, Charles, Avogadro)",
+     "İdeal gaz denklemi",
+     "Gaz karışımları ve kısmi basınç",
+     "Kinetik moleküler teori"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-3",
+    "name": "Çözeltiler",
+    "subs": [
+     "Derişim hesaplamaları",
+     "Koligatif özellikler",
+     "Çözünürlük ve çökelme"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-4",
+    "name": "Kimyasal Tepkimelerde Enerji",
+    "subs": [
+     "Tepkime entalpisi",
+     "Hess yasası",
+     "Bağ enerjisi",
+     "Enerji diyagramları"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-5",
+    "name": "Kimyasal Tepkimelerde Hız",
+    "subs": [
+     "Tepkime hızı ve etkileyen faktörler",
+     "Hız ifadeleri",
+     "Aktifleşme enerjisi ve katalizör"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-6",
+    "name": "Kimyasal Denge",
+    "subs": [
+     "Denge sabiti",
+     "Dengeyi etkileyen faktörler (Le Chatelier)",
+     "Çözünürlük dengesi"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-7",
+    "name": "Asit-Baz Dengesi",
+    "subs": [
+     "Kuvvetli-zayıf asitler ve bazlar",
+     "pH-pOH hesaplamaları",
+     "Titrasyon",
+     "Tampon çözeltiler",
+     "Hidroliz"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-8",
+    "name": "Elektrokimya",
+    "subs": [
+     "Redoks tepkimeleri",
+     "Elektrokimyasal piller",
+     "Elektroliz",
+     "Korozyon"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-9",
+    "name": "Kimya ve Elektrik",
+    "subs": [
+     "Standart elektrot potansiyeli",
+     "Pil gerilimi hesaplamaları"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-10",
+    "name": "Organik Kimyaya Giriş",
+    "subs": [
+     "Karbonun özellikleri",
+     "Hibritleşme ve molekül geometrisi",
+     "İzomerlik"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-11",
+    "name": "Organik Bileşikler",
+    "subs": [
+     "Hidrokarbonlar (alkan, alken, alkin)",
+     "Alkol, eter, aldehit, keton",
+     "Karboksilik asitler, esterler",
+     "Aminler ve aromatikler"
+    ]
+   },
+   {
+    "id": "ayt-say-kimya-12",
+    "name": "Kimya Her Yerde ve Enerji Kaynakları",
+    "subs": [
+     "Polimerler ve polimerleşme",
+     "Fosil yakıtlar ve alternatif enerji",
+     "Sürdürülebilir kimya"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-say-biyoloji",
+  "track": "ayt-say",
+  "name": "Biyoloji",
+  "icon": "🧬",
+  "questionCount": 13,
+  "color": "#047857",
+  "topics": [
+   {
+    "id": "ayt-say-biyoloji-1",
+    "name": "Sinir Sistemi",
+    "subs": [
+     "Nöron yapısı ve impuls",
+     "Merkezi sinir sistemi",
+     "Periferik sinir sistemi",
+     "Refleksler"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-2",
+    "name": "Endokrin Sistem",
+    "subs": [
+     "Hormon kavramı",
+     "Hipofiz ve tiroid",
+     "Pankreas ve adrenal bez",
+     "Hormonal düzenleme"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-3",
+    "name": "Duyu Organları",
+    "subs": [
+     "Göz, kulak, deri, dil, burun",
+     "Duyu bozuklukları"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-4",
+    "name": "Destek ve Hareket Sistemi",
+    "subs": [
+     "İskelet sistemi",
+     "Kas sistemi ve kasılma",
+     "Eklemler"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-5",
+    "name": "Sindirim Sistemi",
+    "subs": [
+     "Sindirim organları",
+     "Enzimler ve emilim",
+     "Sindirim sistemi rahatsızlıkları"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-6",
+    "name": "Dolaşım ve Bağışıklık",
+    "subs": [
+     "Kalp ve damarlar",
+     "Kan ve kan grupları",
+     "Lenf sistemi",
+     "Bağışıklık ve aşı"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-7",
+    "name": "Solunum Sistemi",
+    "subs": [
+     "Solunum organları",
+     "Gaz alışverişi",
+     "Solunum hastalıkları"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-8",
+    "name": "Üriner Sistem",
+    "subs": [
+     "Böbrek yapısı",
+     "İdrar oluşumu",
+     "Homeostaz"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-9",
+    "name": "Üreme Sistemi ve Gelişme",
+    "subs": [
+     "Üreme organları",
+     "Gametogenez",
+     "Embriyonik gelişme",
+     "Üreme sağlığı"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-10",
+    "name": "Komünite ve Popülasyon Ekolojisi",
+    "subs": [
+     "Popülasyon dinamiği",
+     "Komünite yapısı",
+     "Süksesyon"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-11",
+    "name": "Genden Proteine",
+    "subs": [
+     "Nükleik asitler",
+     "DNA replikasyonu",
+     "Transkripsiyon ve translasyon",
+     "Genetik şifre ve protein sentezi"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-12",
+    "name": "Canlılarda Enerji Dönüşümleri",
+    "subs": [
+     "Fotosentez",
+     "Kemosentez",
+     "Hücresel solunum",
+     "Fermantasyon"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-13",
+    "name": "Bitki Biyolojisi",
+    "subs": [
+     "Bitkisel dokular",
+     "Bitkilerde taşıma",
+     "Bitkilerde hareket ve hormonlar",
+     "Fotoperiyodizm"
+    ]
+   },
+   {
+    "id": "ayt-say-biyoloji-14",
+    "name": "Canlılarda Savunma ve Güncel Çevre Sorunları",
+    "subs": [
+     "Savunma mekanizmaları",
+     "Biyolojik çeşitlilik",
+     "Çevre kirliliği ve koruma"
+    ]
+   }
+  ]
+ }
+]

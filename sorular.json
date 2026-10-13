@@ -1,0 +1,1067 @@
+[
+ {
+  "id": "q001",
+  "subject": "tyt-turkce",
+  "topic": "Sözcükte Anlam",
+  "text": "Bu olaydan sonra gözümdeki değeri bir kat daha arttı. cümlesindeki altı çizili sözle anlatılmak istenen nedir?",
+  "options": [
+   "Kişinin önemi ve saygınlığı",
+   "Maddi kazancı",
+   "Fiziksel görünüşü",
+   "Çevresindeki kişi sayısı"
+  ],
+  "answer": 0,
+  "explain": "Gözdeki değer deyimi, bir kişiye verilen önemi ve saygınlığı anlatır.",
+  "subjectName": "Türkçe"
+ },
+ {
+  "id": "q002",
+  "subject": "tyt-turkce",
+  "topic": "Cümlede Anlam",
+  "text": "Aşağıdaki cümlelerden hangisi neden-sonuç ilişkisi içermektedir?",
+  "options": [
+   "Kitabı çok sevdiğim için iki günde bitirdim.",
+   "Kitabı yarın akşam bitireceğim.",
+   "Kitap, kapağına göre ilgi çekici olabilir.",
+   "Kitabın ikinci baskısı çıkmış."
+  ],
+  "answer": 0,
+  "explain": "Çok sevdiğim için ifadesi neden, iki günde bitirdim ifadesi sonuçtur.",
+  "subjectName": "Türkçe"
+ },
+ {
+  "id": "q003",
+  "subject": "tyt-turkce",
+  "topic": "Paragrafta Ana Düşünce ve Konu",
+  "text": "Bir paragrafta yazarın okura aktarmak istediği temel iletiye ne ad verilir?",
+  "options": [
+   "Ana düşünce",
+   "Yardımcı düşünce",
+   "Konu",
+   "Başlık"
+  ],
+  "answer": 0,
+  "explain": "Ana düşünce, yazarın paragraf boyunca savunduğu temel yargıdır.",
+  "subjectName": "Türkçe"
+ },
+ {
+  "id": "q004",
+  "subject": "tyt-turkce",
+  "topic": "Noktalama İşaretleri",
+  "text": "Aşağıdaki cümlelerden hangisinde virgül yanlış kullanılmıştır?",
+  "options": [
+   "Bahçede gül, lale ve papatya vardı.",
+   "Ali, arkadaşını çok severdi.",
+   "Küçük, kırmızı bir kalem aldım.",
+   "Yarın sabah, erkenden yola çıkacağız."
+  ],
+  "answer": 2,
+  "explain": "Ölçü bildirmeyen iki sıfat arasına virgül konmaz; küçük kırmızı kalem denmelidir.",
+  "subjectName": "Türkçe"
+ },
+ {
+  "id": "q005",
+  "subject": "tyt-turkce",
+  "topic": "Yazım Kuralları",
+  "text": "Aşağıdaki cümlelerden hangisinde yazım yanlışı vardır?",
+  "options": [
+   "Herşeyi ona anlattım.",
+   "Bugün hava çok güzel.",
+   "Kitabı kütüphaneden aldım.",
+   "Yarın görüşür müyüz?"
+  ],
+  "answer": 0,
+  "explain": "Her şey ayrı yazılır; herşey biçimindeki bitişik yazım yanlıştır.",
+  "subjectName": "Türkçe"
+ },
+ {
+  "id": "q006",
+  "subject": "tyt-tarih",
+  "topic": "Tarih ve Zaman",
+  "text": "Tarih biliminin en önemli özelliği aşağıdakilerden hangisidir?",
+  "options": [
+   "Deney ve gözlem yapması",
+   "Belgelere dayanması",
+   "Geleceği kesin olarak öngörmesi",
+   "Yalnızca savaşları incelemesi"
+  ],
+  "answer": 1,
+  "explain": "Tarih, geçmişteki olayları belge ve kaynaklara dayanarak inceler; deney yapma imkânı yoktur.",
+  "subjectName": "Tarih"
+ },
+ {
+  "id": "q007",
+  "subject": "tyt-tarih",
+  "topic": "İslamiyet Öncesi Türk Tarihi",
+  "text": "Türk adının geçtiği ilk devlet aşağıdakilerden hangisidir?",
+  "options": [
+   "Asya Hun Devleti",
+   "Göktürk Devleti",
+   "Uygur Devleti",
+   "Avar Devleti"
+  ],
+  "answer": 1,
+  "explain": "Türk adı ilk kez Göktürk (Kök Türk) Devleti ile devlet adı olarak kullanılmıştır.",
+  "subjectName": "Tarih"
+ },
+ {
+  "id": "q008",
+  "subject": "tyt-tarih",
+  "topic": "Osmanlı Devleti",
+  "text": "Osmanlı Devleti'nin kurucusu ve ilk padişahı kimdir?",
+  "options": [
+   "Orhan Bey",
+   "Osman Bey",
+   "I. Murat",
+   "Yıldırım Bayezid"
+  ],
+  "answer": 1,
+  "explain": "Osmanlı Beyliği'nin kurucusu ve ilk padişahı Osman Bey'dir.",
+  "subjectName": "Tarih"
+ },
+ {
+  "id": "q009",
+  "subject": "tyt-tarih",
+  "topic": "XX. Yüzyıl Başları ve Kurtuluş Savaşı",
+  "text": "Kurtuluş Savaşı'nın gerekçesini ve amacını ilk kez açıklayan belge hangisidir?",
+  "options": [
+   "Amasya Genelgesi",
+   "Havza Genelgesi",
+   "Erzurum Kongresi",
+   "Misakımillî"
+  ],
+  "answer": 0,
+  "explain": "Amasya Genelgesi'nde milletin bağımsızlığını yine milletin azim ve kararının kurtaracağı belirtilmiştir.",
+  "subjectName": "Tarih"
+ },
+ {
+  "id": "q010",
+  "subject": "tyt-tarih",
+  "topic": "Atatürk İlke ve İnkılapları",
+  "text": "Saltanatın kaldırılması Atatürk ilkelerinden hangisiyle doğrudan ilgilidir?",
+  "options": [
+   "Cumhuriyetçilik",
+   "Laiklik",
+   "Devletçilik",
+   "Devrimcilik"
+  ],
+  "answer": 0,
+  "explain": "Saltanatın kaldırılması, milli egemenliğe dayanan cumhuriyet yönetiminin temel adımıdır.",
+  "subjectName": "Tarih"
+ },
+ {
+  "id": "q011",
+  "subject": "tyt-cografya",
+  "topic": "Dünya'nın Şekli ve Hareketleri",
+  "text": "Dünya'nın kendi ekseni etrafında dönmesinin sonucu aşağıdakilerden hangisidir?",
+  "options": [
+   "Mevsimlerin oluşması",
+   "Gece ve gündüzün oluşması",
+   "Yıl içinde sıcaklık değişimi",
+   "Meltem rüzgârları"
+  ],
+  "answer": 1,
+  "explain": "Günlük hareket (kendi ekseni etrafında dönme) gece-gündüz oluşumunu sağlar; mevsimler yıllık hareketin sonucudur.",
+  "subjectName": "Coğrafya"
+ },
+ {
+  "id": "q012",
+  "subject": "tyt-cografya",
+  "topic": "İklim Bilgisi",
+  "text": "Sıcaklık her 200 metrede ortalama kaç derece azalır?",
+  "options": [
+   "0,5",
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 1,
+  "explain": "Troposferde yükseldikçe sıcaklık her 200 metrede yaklaşık 1 °C azalır.",
+  "subjectName": "Coğrafya"
+ },
+ {
+  "id": "q013",
+  "subject": "tyt-cografya",
+  "topic": "Nüfus ve Yerleşme",
+  "text": "Türkiye'de nüfusun en yoğun olduğu bölge aşağıdakilerden hangisidir?",
+  "options": [
+   "Marmara Bölgesi",
+   "Doğu Anadolu Bölgesi",
+   "İç Anadolu Bölgesi",
+   "Karadeniz Bölgesi"
+  ],
+  "answer": 0,
+  "explain": "Sanayi, ticaret ve ulaşım olanakları nedeniyle Marmara Bölgesi nüfus yoğunluğu en yüksek bölgedir.",
+  "subjectName": "Coğrafya"
+ },
+ {
+  "id": "q014",
+  "subject": "tyt-cografya",
+  "topic": "Yer Şekilleri",
+  "text": "Türkiye'de akarsuların oluşturduğu yer şekillerinden biri değildir?",
+  "options": [
+   "Vadi",
+   "Delta",
+   "Peribacası",
+   "Dev kazanı"
+  ],
+  "answer": 2,
+  "explain": "Peribacası, rüzgâr ve sel sularının volkanik tüfleri aşındırmasıyla oluşur; akarsu şekli değildir.",
+  "subjectName": "Coğrafya"
+ },
+ {
+  "id": "q015",
+  "subject": "tyt-cografya",
+  "topic": "Türkiye Ekonomisi",
+  "text": "Aşağıdaki ürünlerden hangisi Türkiye'de yetiştirilmez?",
+  "options": [
+   "Zeytin",
+   "Kahve",
+   "Fındık",
+   "Ayçiçeği"
+  ],
+  "answer": 1,
+  "explain": "Kahve, tropikal iklim bitkisidir; Türkiye iklim koşullarında tarımı yapılmaz.",
+  "subjectName": "Coğrafya"
+ },
+ {
+  "id": "q016",
+  "subject": "tyt-felsefe",
+  "topic": "Felsefeye Giriş",
+  "text": "Felsefi düşüncenin özellikleri arasında aşağıdakilerden hangisi yer almaz?",
+  "options": [
+   "Eleştirel olma",
+   "Refleksif olma",
+   "Kesin ve değişmez sonuçlar verme",
+   "Sorgulayıcı olma"
+  ],
+  "answer": 2,
+  "explain": "Felsefe kesin ve değişmez doğrular vermez; sorgular, tartışır ve yeni sorular üretir.",
+  "subjectName": "Felsefe"
+ },
+ {
+  "id": "q017",
+  "subject": "tyt-felsefe",
+  "topic": "Bilgi Felsefesi",
+  "text": "Bilginin kaynağının akıl olduğunu savunan görüş hangisidir?",
+  "options": [
+   "Rasyonalizm",
+   "Empirizm",
+   "Septisizm",
+   "Pozitivizm"
+  ],
+  "answer": 0,
+  "explain": "Rasyonalizm (akılcılık) bilginin kaynağını akıl olarak görür; empirizm duyuları esas alır.",
+  "subjectName": "Felsefe"
+ },
+ {
+  "id": "q018",
+  "subject": "tyt-felsefe",
+  "topic": "Varlık Felsefesi",
+  "text": "Varlığın özünü madde olarak kabul eden görüş hangisidir?",
+  "options": [
+   "İdealizm",
+   "Materyalizm",
+   "Düalizm",
+   "Spiritualizm"
+  ],
+  "answer": 1,
+  "explain": "Materyalizm, varlığın temelini maddeye indirger; idealizm ise düşünceyi/ideayı esas alır.",
+  "subjectName": "Felsefe"
+ },
+ {
+  "id": "q019",
+  "subject": "tyt-felsefe",
+  "topic": "Ahlak Felsefesi",
+  "text": "Ahlaki eylemin sonucuna göre değerlendirilmesini savunan görüş hangisidir?",
+  "options": [
+   "Ödev ahlakı",
+   "Faydacılık",
+   "Erdem etiği",
+   "Entüisyonizm"
+  ],
+  "answer": 1,
+  "explain": "Faydacılık, eylemin doğruluk ölçütünü sağladığı fayda ve mutluluk miktarına bağlar.",
+  "subjectName": "Felsefe"
+ },
+ {
+  "id": "q020",
+  "subject": "tyt-felsefe",
+  "topic": "İlk Çağ Felsefesi",
+  "text": "İlk Çağ felsefesinde ilk neden (arkhe) sorununu ilk kez ortaya atan filozof kimdir?",
+  "options": [
+   "Thales",
+   "Platon",
+   "Aristoteles",
+   "Sokrates"
+  ],
+  "answer": 0,
+  "explain": "Milet okulunun kurucusu Thales, her şeyin kaynağını su olarak göstererek arkhe sorusunu başlatmıştır.",
+  "subjectName": "Felsefe"
+ },
+ {
+  "id": "q021",
+  "subject": "tyt-dinkulturu",
+  "topic": "Bilgi ve İnanç",
+  "text": "İslam dininde iman esaslarının ilki aşağıdakilerden hangisidir?",
+  "options": [
+   "Allah'a iman",
+   "Meleklere iman",
+   "Kitaplara iman",
+   "Ahirete iman"
+  ],
+  "answer": 0,
+  "explain": "İman esaslarının ilki ve temeli Allah'a imandır; diğer esaslar bunun üzerine kuruludur.",
+  "subjectName": "Din Kültürü ve Ahlak Bilgisi"
+ },
+ {
+  "id": "q022",
+  "subject": "tyt-dinkulturu",
+  "topic": "İslam ve İbadet",
+  "text": "İslam'ın şartları arasında aşağıdakilerden hangisi yer almaz?",
+  "options": [
+   "Namaz kılmak",
+   "Oruç tutmak",
+   "Zekât vermek",
+   "Kurban kesmek"
+  ],
+  "answer": 3,
+  "explain": "İslam'ın beş şartı: kelime-i şehadet, namaz, oruç, zekât ve hacdır. Kurban, hac kapsamında değerlendirilir.",
+  "subjectName": "Din Kültürü ve Ahlak Bilgisi"
+ },
+ {
+  "id": "q023",
+  "subject": "tyt-dinkulturu",
+  "topic": "Din ve Ahlak",
+  "text": "Ahlaki davranışların temel amacı aşağıdakilerden hangisidir?",
+  "options": [
+   "Toplumsal huzur ve kişinin olgunlaşması",
+   "Maddi kazanç sağlamak",
+   "Toplumda ün kazanmak",
+   "Başkalarını yönetmek"
+  ],
+  "answer": 0,
+  "explain": "Ahlak, kişinin kendini geliştirmesini ve toplumsal huzuru amaçlar.",
+  "subjectName": "Din Kültürü ve Ahlak Bilgisi"
+ },
+ {
+  "id": "q024",
+  "subject": "tyt-dinkulturu",
+  "topic": "Hz. Muhammed'in Hayatı",
+  "text": "Hz. Muhammed'in Medine'ye hicreti hangi yıl gerçekleşmiştir?",
+  "options": [
+   "610",
+   "622",
+   "632",
+   "571"
+  ],
+  "answer": 1,
+  "explain": "Hicret, 622 yılında gerçekleşmiş ve Hicri takvimin başlangıcı kabul edilmiştir.",
+  "subjectName": "Din Kültürü ve Ahlak Bilgisi"
+ },
+ {
+  "id": "q025",
+  "subject": "tyt-dinkulturu",
+  "topic": "Kur'an ve İslam Düşüncesi",
+  "text": "Kur'an-ı Kerim'in ana konuları arasında aşağıdakilerden hangisi yer almaz?",
+  "options": [
+   "İnanç",
+   "İbadet",
+   "Ahlak",
+   "Ticari kazanç yöntemleri"
+  ],
+  "answer": 3,
+  "explain": "Kur'an'ın ana konuları inanç, ibadet, ahlak ve muamelattır; doğrudan ticari kazanç yöntemleri ana konu değildir.",
+  "subjectName": "Din Kültürü ve Ahlak Bilgisi"
+ },
+ {
+  "id": "q026",
+  "subject": "ayt-matematik",
+  "topic": "Logaritma",
+  "text": "log₂ 8 + log₃ 9 işleminin sonucu kaçtır?",
+  "options": [
+   "3",
+   "4",
+   "5",
+   "6"
+  ],
+  "answer": 2,
+  "explain": "log₂8 = 3 (2³=8), log₃9 = 2 (3²=9) → toplam 5.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q027",
+  "subject": "ayt-matematik",
+  "topic": "İkinci Dereceden Denklemler",
+  "text": "x² − 5x + 6 = 0 denkleminin kökleri aşağıdakilerden hangisidir?",
+  "options": [
+   "{2, 3}",
+   "{−2, −3}",
+   "{1, 6}",
+   "{−1, 6}"
+  ],
+  "answer": 0,
+  "explain": "Δ = 25 − 24 = 1 → x = (5±1)/2 → x₁ = 3, x₂ = 2.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q028",
+  "subject": "ayt-matematik",
+  "topic": "Diziler",
+  "text": "Aritmetik bir dizide a₁ = 3 ve ortak fark 4 ise a₁₀ kaçtır?",
+  "options": [
+   "36",
+   "39",
+   "42",
+   "45"
+  ],
+  "answer": 1,
+  "explain": "a₁₀ = a₁ + (n−1)d = 3 + 9·4 = 39.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q029",
+  "subject": "ayt-matematik",
+  "topic": "Trigonometri",
+  "text": "sin 75° ifadesinin değeri aşağıdakilerden hangisidir?",
+  "options": [
+   "(√6 + √2)/4",
+   "(√6 − √2)/4",
+   "(√3 + 1)/2",
+   "(√2 − 1)/2"
+  ],
+  "answer": 0,
+  "explain": "sin75 = sin(45+30) = sin45·cos30 + cos45·sin30 = (√6+√2)/4.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q030",
+  "subject": "ayt-matematik",
+  "topic": "Türev",
+  "text": "f(x) = x³ − 3x fonksiyonunun yerel minimum noktasının apsisi kaçtır?",
+  "options": [
+   "−1",
+   "0",
+   "1",
+   "3"
+  ],
+  "answer": 2,
+  "explain": "f′(x) = 3x² − 3 = 0 → x = ±1; ikinci türev testinde x = 1 yerel minimumdur.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q031",
+  "subject": "ayt-matematik",
+  "topic": "İntegral",
+  "text": "Belirli integral ∫₁³ 2x dx değeri kaçtır?",
+  "options": [
+   "4",
+   "6",
+   "8",
+   "10"
+  ],
+  "answer": 2,
+  "explain": "∫2x dx = x²; x²|₁³ = 9 − 1 = 8.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q032",
+  "subject": "ayt-matematik",
+  "topic": "Polinomlar",
+  "text": "P(x) = x³ − 4x + 2 polinomunun x = 2 için değeri kaçtır?",
+  "options": [
+   "0",
+   "2",
+   "4",
+   "6"
+  ],
+  "answer": 1,
+  "explain": "P(2) = 8 − 8 + 2 = 2.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q033",
+  "subject": "ayt-matematik",
+  "topic": "Limit ve Süreklilik",
+  "text": "lim(x→2) (x² − 4)/(x − 2) limitinin değeri kaçtır?",
+  "options": [
+   "0",
+   "2",
+   "4",
+   "Tanımsız"
+  ],
+  "answer": 2,
+  "explain": "Payı çarpanlara ayırırsak (x−2)(x+2)/(x−2) = x+2 → x = 2 için limit 4.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q034",
+  "subject": "ayt-matematik",
+  "topic": "Karmaşık Sayılar",
+  "text": "z = 3 + 4i karmaşık sayısının modülü kaçtır?",
+  "options": [
+   "5",
+   "7",
+   "12",
+   "25"
+  ],
+  "answer": 0,
+  "explain": "|z| = √(3² + 4²) = √25 = 5.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q035",
+  "subject": "ayt-matematik",
+  "topic": "Analitik Geometri",
+  "text": "Eğimi 2 olan ve (1, 3) noktasından geçen doğrunun denklemi nedir?",
+  "options": [
+   "y = 2x + 1",
+   "y = 2x − 1",
+   "y = 2x + 3",
+   "y = x + 2"
+  ],
+  "answer": 0,
+  "explain": "y − 3 = 2(x − 1) → y = 2x + 1.",
+  "subjectName": "Matematik"
+ },
+ {
+  "id": "q036",
+  "subject": "ayt-fizik",
+  "topic": "Newton'un Hareket Yasaları",
+  "text": "Kütlesi 4 kg olan cisme 12 N'luk net kuvvet uygulanırsa ivmesi kaç m/s² olur?",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "48"
+  ],
+  "answer": 1,
+  "explain": "F = m·a → a = 12/4 = 3 m/s².",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q037",
+  "subject": "ayt-fizik",
+  "topic": "İtme ve Momentum",
+  "text": "Kütlesi 2 kg olan cisim 5 m/s hızla hareket ederken momentumu kaç kg·m/s'dir?",
+  "options": [
+   "2,5",
+   "5",
+   "10",
+   "20"
+  ],
+  "answer": 2,
+  "explain": "p = m·v = 2·5 = 10 kg·m/s.",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q038",
+  "subject": "ayt-fizik",
+  "topic": "Düzgün Çembersel Hareket",
+  "text": "Yarıçapı 2 m olan çembersel yörüngede 4 m/s hızla dönen cismin merkezcil ivmesi kaç m/s²'dir?",
+  "options": [
+   "2",
+   "4",
+   "8",
+   "16"
+  ],
+  "answer": 2,
+  "explain": "a = v²/r = 16/2 = 8 m/s².",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q039",
+  "subject": "ayt-fizik",
+  "topic": "Basit Harmonik Hareket",
+  "text": "Kütle-yay sisteminde periyodu artırmak için aşağıdakilerden hangisi yapılmalıdır?",
+  "options": [
+   "Kütle artırılmalı",
+   "Yay sabiti artırılmalı",
+   "Genlik artırılmalı",
+   "Yay kısaltılmalı"
+  ],
+  "answer": 0,
+  "explain": "T = 2π√(m/k); kütle artarsa periyot artar, genlik periyodu etkilemez.",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q040",
+  "subject": "ayt-fizik",
+  "topic": "Elektrik Akımı ve Devreler",
+  "text": "Direnci 20 Ω olan iletkenin uçlarına 10 V gerilim uygulanırsa akım kaç amper olur?",
+  "options": [
+   "0,2",
+   "0,5",
+   "2",
+   "200"
+  ],
+  "answer": 1,
+  "explain": "I = V/R = 10/20 = 0,5 A.",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q041",
+  "subject": "ayt-fizik",
+  "topic": "Modern Fizik",
+  "text": "Fotoelektrik olayda elektron kopması için gereken en küçük ışık frekansına ne ad verilir?",
+  "options": [
+   "Eşik frekansı",
+   "Rezonans frekansı",
+   "Doğal frekans",
+   "Kritik frekans"
+  ],
+  "answer": 0,
+  "explain": "Eşik frekansı, metalden elektron koparabilen en düşük frekanstır.",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q042",
+  "subject": "ayt-fizik",
+  "topic": "İndüksiyon ve Alternatif Akım",
+  "text": "Manyetik akı değişimi sonucu iletkende gerilim oluşmasına ne denir?",
+  "options": [
+   "Elektromanyetik indüksiyon",
+   "Elektrostatik",
+   "Kutuplaşma",
+   "Diyamanyetizma"
+  ],
+  "answer": 0,
+  "explain": "Faraday yasasına göre manyetik akı değişimi indüksiyon emk'si oluşturur.",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q043",
+  "subject": "ayt-fizik",
+  "topic": "Atom Çekirdeği ve Radyoaktivite",
+  "text": "Alfa ışıması yapan bir çekirdeğin atom numarası nasıl değişir?",
+  "options": [
+   "2 azalır",
+   "2 artar",
+   "1 azalır",
+   "Değişmez"
+  ],
+  "answer": 0,
+  "explain": "Alfa ışımasında helyum çekirdeği (2 proton, 2 nötron) atılır; atom numarası 2 azalır.",
+  "subjectName": "Fizik"
+ },
+ {
+  "id": "q044",
+  "subject": "ayt-kimya",
+  "topic": "Gazlar",
+  "text": "İdeal gaz denklemi aşağıdakilerden hangisidir?",
+  "options": [
+   "PV = nRT",
+   "PV = nR/T",
+   "P/V = nRT",
+   "PVT = nR"
+  ],
+  "answer": 0,
+  "explain": "İdeal gaz denklemi PV = nRT'dir; P basınç, V hacim, n mol, T sıcaklık, R gaz sabiti.",
+  "subjectName": "Kimya"
+ },
+ {
+  "id": "q045",
+  "subject": "ayt-kimya",
+  "topic": "Kimyasal Denge",
+  "text": "Denge hâlindeki bir tepkimeye katalizör eklenirse aşağıdakilerden hangisi olur?",
+  "options": [
+   "Denge hızlanır, denge sabiti değişmez",
+   "Denge sabiti artar",
+   "Denge ürünler yönüne kayar",
+   "Denge bozulur"
+  ],
+  "answer": 0,
+  "explain": "Katalizör ileri ve geri tepkime hızını aynı oranda artırır; denge konumu ve K değişmez.",
+  "subjectName": "Kimya"
+ },
+ {
+  "id": "q046",
+  "subject": "ayt-kimya",
+  "topic": "Asit-Baz Dengesi",
+  "text": "0,01 M HCl çözeltisinin pH değeri kaçtır?",
+  "options": [
+   "1",
+   "2",
+   "7",
+   "12"
+  ],
+  "answer": 1,
+  "explain": "Kuvvetli asit tamamen iyonlaşır: [H⁺] = 10⁻² → pH = 2.",
+  "subjectName": "Kimya"
+ },
+ {
+  "id": "q047",
+  "subject": "ayt-kimya",
+  "topic": "Elektrokimya",
+  "text": "Elektrokimyasal pilde anot elektrotta hangi olay gerçekleşir?",
+  "options": [
+   "Yükseltgenme",
+   "İndirgenme",
+   "Nötrleşme",
+   "Çökelme"
+  ],
+  "answer": 0,
+  "explain": "Anotta yükseltgenme, katotta indirgenme olur.",
+  "subjectName": "Kimya"
+ },
+ {
+  "id": "q048",
+  "subject": "ayt-kimya",
+  "topic": "Kimyasal Tepkimelerde Hız",
+  "text": "Tepkime hızını artırmak için aşağıdakilerden hangisi yapılmamalıdır?",
+  "options": [
+   "Sıcaklığı düşürmek",
+   "Katalizör eklemek",
+   "Derişimi artırmak",
+   "Temas yüzeyini artırmak"
+  ],
+  "answer": 0,
+  "explain": "Sıcaklığın düşürülmesi tanecik hareketini yavaşlatır ve hızı azaltır.",
+  "subjectName": "Kimya"
+ },
+ {
+  "id": "q049",
+  "subject": "ayt-kimya",
+  "topic": "Organik Bileşikler",
+  "text": "Genel formülü CnH2n+2 olan hidrokarbon sınıfı hangisidir?",
+  "options": [
+   "Alkan",
+   "Alken",
+   "Alkin",
+   "Aromatik"
+  ],
+  "answer": 0,
+  "explain": "Alkanlar doymuş hidrokarbonlardır ve genel formülleri CnH2n+2'dir.",
+  "subjectName": "Kimya"
+ },
+ {
+  "id": "q050",
+  "subject": "ayt-kimya",
+  "topic": "Çözeltiler",
+  "text": "2 mol madde 4 litre çözeltide çözülürse derişim kaç molar olur?",
+  "options": [
+   "0,5",
+   "2",
+   "4",
+   "8"
+  ],
+  "answer": 0,
+  "explain": "M = n/V = 2/4 = 0,5 M.",
+  "subjectName": "Kimya"
+ },
+ {
+  "id": "q051",
+  "subject": "ayt-biyoloji",
+  "topic": "Sinir Sistemi",
+  "text": "Nöronlar arasındaki impuls iletimini sağlayan yapıya ne denir?",
+  "options": [
+   "Sinaps",
+   "Akson",
+   "Dendrit",
+   "Miyelin kılıf"
+  ],
+  "answer": 0,
+  "explain": "Sinaps, bir nöronun akson ucunun diğer nöronla bağlantı kurduğu bölgedir; ileti nörotransmitterle sağlanır.",
+  "subjectName": "Biyoloji"
+ },
+ {
+  "id": "q052",
+  "subject": "ayt-biyoloji",
+  "topic": "Endokrin Sistem",
+  "text": "Kan şekerini düşüren hormon aşağıdakilerden hangisidir?",
+  "options": [
+   "İnsülin",
+   "Glukagon",
+   "Adrenalin",
+   "Tiroksin"
+  ],
+  "answer": 0,
+  "explain": "İnsülin, pankreasın beta hücrelerinden salgılanır ve kan şekerini düşürür.",
+  "subjectName": "Biyoloji"
+ },
+ {
+  "id": "q053",
+  "subject": "ayt-biyoloji",
+  "topic": "Genden Proteine",
+  "text": "Protein sentezinde mRNA'daki kodonu tanıyan molekül hangisidir?",
+  "options": [
+   "tRNA",
+   "rRNA",
+   "DNA polimeraz",
+   "RNA polimeraz"
+  ],
+  "answer": 0,
+  "explain": "tRNA, antikodonu ile mRNA'daki kodonu eşleştirerek amino asit taşır.",
+  "subjectName": "Biyoloji"
+ },
+ {
+  "id": "q054",
+  "subject": "ayt-biyoloji",
+  "topic": "Canlılarda Enerji Dönüşümleri",
+  "text": "Fotosentezin ışığa bağlı tepkimelerinde üretilen oksijenin kaynağı nedir?",
+  "options": [
+   "Su",
+   "Karbondioksit",
+   "Glikoz",
+   "ATP"
+  ],
+  "answer": 0,
+  "explain": "Işığa bağlı tepkimelerde suyun fotolizi ile oksijen açığa çıkar.",
+  "subjectName": "Biyoloji"
+ },
+ {
+  "id": "q055",
+  "subject": "ayt-biyoloji",
+  "topic": "Dolaşım ve Bağışıklık",
+  "text": "Kanın pıhtılaşmasında görevli hücre ve protein çifti hangisidir?",
+  "options": [
+   "Trombosit ve fibrinojen",
+   "Alyuvar ve albumin",
+   "Akyuvar ve globulin",
+   "Trombosit ve hemoglobin"
+  ],
+  "answer": 0,
+  "explain": "Trombositler pıhtılaşma sürecini başlatır; fibrinojen fibrin ipliklerine dönüşerek pıhtıyı oluşturur.",
+  "subjectName": "Biyoloji"
+ },
+ {
+  "id": "q056",
+  "subject": "ayt-biyoloji",
+  "topic": "Bitki Biyolojisi",
+  "text": "Bitkilerde su ve mineral taşınmasını sağlayan doku hangisidir?",
+  "options": [
+   "Ksilem",
+   "Floem",
+   "Kambiyum",
+   "Epidermis"
+  ],
+  "answer": 0,
+  "explain": "Ksilem (odun borusu) kökten yapraklara su ve mineral taşır; floem organik madde taşır.",
+  "subjectName": "Biyoloji"
+ },
+ {
+  "id": "q057",
+  "subject": "ayt-edebiyat",
+  "topic": "Şiir Bilgisi",
+  "text": "Divan şiirinde aynı ölçüyle yazılan ve dört dizeden oluşan nazım biçimi hangisidir?",
+  "options": [
+   "Rubai",
+   "Gazel",
+   "Mesnevi",
+   "Kaside"
+  ],
+  "answer": 0,
+  "explain": "Rubai, dört dizeden oluşan ve özel bir ölçüyle yazılan divan şiiri nazım biçimidir.",
+  "subjectName": "Türk Dili ve Edebiyatı"
+ },
+ {
+  "id": "q058",
+  "subject": "ayt-edebiyat",
+  "topic": "Edebî Akımlar",
+  "text": "Duygu ve hayal yerine gözleme, gerçeğin nesnel anlatımına önem veren edebî akım hangisidir?",
+  "options": [
+   "Realizm",
+   "Romantizm",
+   "Sembolizm",
+   "Fütürizm"
+  ],
+  "answer": 0,
+  "explain": "Realizm, gerçeği gözleme dayalı ve nesnel biçimde yansıtmayı amaçlar.",
+  "subjectName": "Türk Dili ve Edebiyatı"
+ },
+ {
+  "id": "q059",
+  "subject": "ayt-edebiyat",
+  "topic": "İslami Dönem Türk Edebiyatı",
+  "text": "Divan edebiyatının ilk örneklerinden Kutadgu Bilig'in yazarı kimdir?",
+  "options": [
+   "Yusuf Has Hacip",
+   "Kaşgarlı Mahmud",
+   "Ahmet Yesevi",
+   "Ali Şir Nevai"
+  ],
+  "answer": 0,
+  "explain": "Kutadgu Bilig'i 1069-1070 yıllarında Yusuf Has Hacip yazmıştır.",
+  "subjectName": "Türk Dili ve Edebiyatı"
+ },
+ {
+  "id": "q060",
+  "subject": "ayt-edebiyat",
+  "topic": "Tanzimat Edebiyatı",
+  "text": "Türk edebiyatında ilk yerli roman olarak kabul edilen eser hangisidir?",
+  "options": [
+   "Taaşşuk-ı Talat ve Fitnat",
+   "İntibah",
+   "Araba Sevdası",
+   "Sergüzeşt"
+  ],
+  "answer": 0,
+  "explain": "Şemsettin Sami'nin Taaşşuk-ı Talat ve Fitnat (1872) adlı eseri ilk yerli roman kabul edilir.",
+  "subjectName": "Türk Dili ve Edebiyatı"
+ },
+ {
+  "id": "q061",
+  "subject": "ayt-edebiyat",
+  "topic": "Millî Edebiyat ve Cumhuriyet Dönemi",
+  "text": "Millî edebiyat döneminde sade ve hece ölçüsüyle yazan Beş Hececiler'den biri değildir?",
+  "options": [
+   "Yahya Kemal Beyatlı",
+   "Faruk Nafiz Çamlıbel",
+   "Enis Behiç Koryürek",
+   "Halit Fahri Ozansoy"
+  ],
+  "answer": 0,
+  "explain": "Yahya Kemal Beyatlı Beş Hececiler'den değildir; aruzla ve klasik anlayışla şiirler yazmıştır.",
+  "subjectName": "Türk Dili ve Edebiyatı"
+ },
+ {
+  "id": "q062",
+  "subject": "ayt-edebiyat",
+  "topic": "Anlam Bilgisi",
+  "text": "Sanatçının anlattığı olayı okuyucunun gözünde canlandıracak biçimde ayrıntılı anlatmasına ne denir?",
+  "options": [
+   "Betimleme",
+   "Öyküleme",
+   "Tartışma",
+   "Tanımlama"
+  ],
+  "answer": 0,
+  "explain": "Betimleme, sözcüklerle resim çizme; görsel ayrıntılarla anlatma sanatıdır.",
+  "subjectName": "Türk Dili ve Edebiyatı"
+ },
+ {
+  "id": "q063",
+  "subject": "ayt-ea-tarih1",
+  "topic": "Osmanlı Tarihi (Kuruluş-Yükselme)",
+  "text": "İstanbul'u fethederek Bizans İmparatorluğu'na son veren Osmanlı padişahı kimdir?",
+  "options": [
+   "II. Mehmet",
+   "Yıldırım Bayezid",
+   "I. Murat",
+   "Kanuni Sultan Süleyman"
+  ],
+  "answer": 0,
+  "explain": "II. Mehmet (Fatih) 1453'te İstanbul'u fethetmiştir.",
+  "subjectName": "Tarih-1"
+ },
+ {
+  "id": "q064",
+  "subject": "ayt-ea-tarih1",
+  "topic": "Kurtuluş Savaşı",
+  "text": "Kurtuluş Savaşı'nda Batı Cephesi'nde kazanılan ve Kurtuluş Savaşı'nın son savunma savaşı olan muharebe hangisidir?",
+  "options": [
+   "Sakarya Meydan Muharebesi",
+   "Büyük Taarruz",
+   "I. İnönü",
+   "Kütahya-Eskişehir"
+  ],
+  "answer": 0,
+  "explain": "Sakarya Meydan Muharebesi (1921) son savunma savaşıdır; Büyük Taarruz ise taarruz savaşıdır.",
+  "subjectName": "Tarih-1"
+ },
+ {
+  "id": "q065",
+  "subject": "ayt-ea-tarih1",
+  "topic": "XX. Yüzyıl Başları",
+  "text": "I. Dünya Savaşı'na Osmanlı Devleti'nin katılmasına yol açan olay hangisidir?",
+  "options": [
+   "Goeben ve Breslau gemilerinin Osmanlı'ya sığınması",
+   "Mondros Ateşkesi",
+   "Sevr Antlaşması",
+   "Trablusgarp Savaşı"
+  ],
+  "answer": 0,
+  "explain": "Alman gemilerinin Osmanlı hizmetine girmesi ve Karadeniz'de Rus limanlarının bombalanması Osmanlı'yı savaşa soktu.",
+  "subjectName": "Tarih-1"
+ },
+ {
+  "id": "q066",
+  "subject": "ayt-ea-cografya1",
+  "topic": "Şehirleşme, Göç ve Ekonomi",
+  "text": "Aşağıdakilerden hangisi Türkiye'de iç göçün temel nedenlerinden biri değildir?",
+  "options": [
+   "Kırsal alanda iş olanaklarının fazlalığı",
+   "Sanayinin belirli merkezlerde toplanması",
+   "Eğitim ve sağlık hizmetleri",
+   "Kırsalda tarım gelirlerinin yetersizliği"
+  ],
+  "answer": 0,
+  "explain": "Kırsal alanda iş olanakları fazla değil azdır; bu nedenle göç verir.",
+  "subjectName": "Coğrafya-1"
+ },
+ {
+  "id": "q067",
+  "subject": "ayt-ea-cografya1",
+  "topic": "Küresel Ortam, Çevre ve Toplum",
+  "text": "Küresel ısınmanın temel nedeni aşağıdakilerden hangisidir?",
+  "options": [
+   "Sera gazlarının artması",
+   "Dünya'nın eksen eğikliği",
+   "Ay'ın çekim etkisi",
+   "Güneş lekelerinin azalması"
+  ],
+  "answer": 0,
+  "explain": "Fosil yakıt kullanımıyla artan sera gazları atmosferde ısı tutulmasını artırır.",
+  "subjectName": "Coğrafya-1"
+ },
+ {
+  "id": "q068",
+  "subject": "ayt-ea-edebiyat",
+  "topic": "İslami Dönem Türk Edebiyatı",
+  "text": "Divan edebiyatında beş mesneviden oluşan esere ne ad verilir?",
+  "options": [
+   "Hamse",
+   "Divan",
+   "Tezkire",
+   "Sefaretname"
+  ],
+  "answer": 0,
+  "explain": "Hamse, bir şairin beş mesnevisinin bir araya getirilmesiyle oluşan eserdir.",
+  "subjectName": "Türk Dili ve Edebiyatı"
+ },
+ {
+  "id": "q069",
+  "subject": "ayt-soz-felsefe",
+  "topic": "Mantık",
+  "text": "Bir önermenin doğru olması ile bir akıl yürütmenin geçerli olması arasındaki fark nedir?",
+  "options": [
+   "Doğruluk önermeye, geçerlilik akıl yürütmeye aittir",
+   "İkisi de yalnızca önermeye aittir",
+   "İkisi aynı şeydir",
+   "Geçerlilik önermeye aittir"
+  ],
+  "answer": 0,
+  "explain": "Doğruluk tek bir önermenin gerçekliğe uygunluğudur; geçerlilik ise öncüllerle sonuç arasındaki çıkarım ilişkisidir.",
+  "subjectName": "Felsefe Grubu"
+ },
+ {
+  "id": "q070",
+  "subject": "ayt-soz-felsefe",
+  "topic": "Psikoloji",
+  "text": "Öğrenmenin pekiştirilmesi yoluyla kazanılan davranış biçimini inceleyen yaklaşım hangisidir?",
+  "options": [
+   "Davranışçı yaklaşım",
+   "Psikanalitik yaklaşım",
+   "Bilişsel yaklaşım",
+   "Hümanist yaklaşım"
+  ],
+  "answer": 0,
+  "explain": "Davranışçılık, uyarıcı-tepki ve pekiştirme kavramlarıyla öğrenmeyi açıklar.",
+  "subjectName": "Felsefe Grubu"
+ },
+ {
+  "id": "q071",
+  "subject": "ayt-soz-felsefe",
+  "topic": "Sosyolojiye Giriş",
+  "text": "Toplumsal olayları incelerken araştırmacının tarafsız kalması gerektiğini savunan sosyolog kimdir?",
+  "options": [
+   "Durkheim",
+   "Marx",
+   "Weber",
+   "Comte"
+  ],
+  "answer": 0,
+  "explain": "Durkheim, toplumsal olayların nesnel ve tarafsız biçimde incelenmesi gerektiğini savunmuştur.",
+  "subjectName": "Felsefe Grubu"
+ }
+]

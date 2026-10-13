@@ -1,0 +1,273 @@
+[
+ {
+  "id": "ayt-ea-matematik",
+  "track": "ayt-ea",
+  "name": "Matematik",
+  "icon": "∫",
+  "questionCount": 40,
+  "color": "#1D4ED8",
+  "shared": "ayt-matematik"
+ },
+ {
+  "id": "ayt-ea-edebiyat",
+  "track": "ayt-ea",
+  "name": "Türk Dili ve Edebiyatı",
+  "icon": "✒️",
+  "questionCount": 24,
+  "color": "#BE123C",
+  "topics": [
+   {
+    "id": "ayt-ea-edebiyat-1",
+    "name": "Anlam Bilgisi",
+    "subs": [
+     "Sözcükte ve cümlede anlam",
+     "Paragraf bilgisi",
+     "Anlatım biçimleri"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-2",
+    "name": "Şiir Bilgisi",
+    "subs": [
+     "Ölçü (vezin)",
+     "Uyak ve redif",
+     "Nazım biçimleri",
+     "Söz sanatları (edebî sanatlar)"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-3",
+    "name": "Edebî Akımlar",
+    "subs": [
+     "Klasisizm, romantizm",
+     "Realizm, natüralizm",
+     "Parnasizm, sembolizm",
+     "Empresyonizm, fütürizm, sürrealizm"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-4",
+    "name": "Metin Türleri",
+    "subs": [
+     "Olay ve düşünce yazıları",
+     "Anı, günlük, mektup, biyografi",
+     "Söylev, makale, deneme, eleştiri"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-5",
+    "name": "İslamiyet Öncesi Türk Edebiyatı",
+    "subs": [
+     "Sözlü dönem ürünleri (destan, sav, sagu, koşuk)",
+     "Yazılı dönem (Orhun, Uygur metinleri)"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-6",
+    "name": "İslami Dönem Türk Edebiyatı",
+    "subs": [
+     "İlk eserler (Kutadgu Bilig, Divanü Lügati't-Türk)",
+     "Halk edebiyatı: anonim, âşık, tekke-tasavvuf",
+     "Divan edebiyatı nazım biçimleri ve şairleri"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-7",
+    "name": "Tanzimat Edebiyatı",
+    "subs": [
+     "Tanzimat I. dönem",
+     "Tanzimat II. dönem",
+     "Servet-i Fünun",
+     "Fecr-i Ati"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-8",
+    "name": "Millî Edebiyat ve Cumhuriyet Dönemi",
+    "subs": [
+     "Millî edebiyat dönemi",
+     "Beş Hececiler",
+     "Cumhuriyet dönemi şiir anlayışları",
+     "Cumhuriyet dönemi roman ve hikâye",
+     "1980 sonrası Türk edebiyatı"
+    ]
+   },
+   {
+    "id": "ayt-ea-edebiyat-9",
+    "name": "Dünya Edebiyatı",
+    "subs": [
+     "Batı edebiyatı dönemleri",
+     "Önemli yazar ve eserler"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-ea-tarih1",
+  "track": "ayt-ea",
+  "name": "Tarih-1",
+  "icon": "🏺",
+  "questionCount": 10,
+  "color": "#92400E",
+  "topics": [
+   {
+    "id": "ayt-ea-tarih1-1",
+    "name": "Tarih ve Zaman",
+    "subs": [
+     "Tarih bilimi ve yöntemi",
+     "Zaman ve takvimler",
+     "Türklerin tarih sahnesine çıkışı"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-2",
+    "name": "İlk Türk Devletleri",
+    "subs": [
+     "Asya Hun, Göktürk, Uygur",
+     "Avrupa Hun, Avar, Hazar",
+     "İlk Türk devletlerinde kültür ve uygarlık"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-3",
+    "name": "İslam Tarihi ve İlk Türk-İslam Devletleri",
+    "subs": [
+     "İslamiyet'in doğuşu ve yayılışı",
+     "Karahanlı, Gazneli",
+     "Büyük Selçuklu Devleti",
+     "Türk-İslam kültür ve medeniyeti"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-4",
+    "name": "Türkiye Tarihi ve Beylikler",
+    "subs": [
+     "Anadolu Selçuklu Devleti",
+     "Anadolu beylikleri",
+     "Anadolu'da Türk kültürü"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-5",
+    "name": "Osmanlı Tarihi (Kuruluş-Yükselme)",
+    "subs": [
+     "Kuruluş ve beylikten devlete",
+     "Yükselme Dönemi",
+     "Denizlerde güç ve fetihler"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-6",
+    "name": "Osmanlı (Duraklama-Gerileme-Dağılma)",
+    "subs": [
+     "Duraklama Dönemi",
+     "Değişen dünya dengeleri",
+     "Gerileme ve ıslahatlar",
+     "Dağılma Dönemi"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-7",
+    "name": "Osmanlı Kültür ve Medeniyeti",
+    "subs": [
+     "Devlet teşkilatı",
+     "Toprak sistemi ve ekonomi",
+     "Eğitim, sanat, hukuk"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-8",
+    "name": "XX. Yüzyıl Başları",
+    "subs": [
+     "I. Dünya Savaşı",
+     "Cepheler ve sonuçlar",
+     "Mondros ve işgaller"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-9",
+    "name": "Kurtuluş Savaşı",
+    "subs": [
+     "Hazırlık Dönemi (kongreler)",
+     "Savaş Dönemi (cepheler)",
+     "Antlaşmalar ve sonuçlar"
+    ]
+   },
+   {
+    "id": "ayt-ea-tarih1-10",
+    "name": "Atatürk Dönemi Türk Dış Politikası",
+    "subs": [
+     "1923-1930 dönemi",
+     "1930-1938 dönemi",
+     "İlkeler ve inkılaplar"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-ea-cografya1",
+  "track": "ayt-ea",
+  "name": "Coğrafya-1",
+  "icon": "🗺️",
+  "questionCount": 6,
+  "color": "#1E3A8A",
+  "topics": [
+   {
+    "id": "ayt-ea-cografya1-1",
+    "name": "Ekosistem ve Biyoçeşitlilik",
+    "subs": [
+     "Ekosistem kavramı",
+     "Biyoçeşitlilik ve korunması",
+     "Madde döngüleri ve enerji akışı"
+    ]
+   },
+   {
+    "id": "ayt-ea-cografya1-2",
+    "name": "Şehirleşme, Göç ve Ekonomi",
+    "subs": [
+     "Göç türleri ve nedenleri",
+     "Şehirleşme ve sorunları",
+     "Ekonomik faaliyet türleri",
+     "Türkiye'de göç ve şehirleşme"
+    ]
+   },
+   {
+    "id": "ayt-ea-cografya1-3",
+    "name": "Türkiye'de Nüfus ve Yerleşme",
+    "subs": [
+     "Nüfus politikaları",
+     "Nüfusun dağılışı ve yapısı",
+     "Yerleşme özellikleri"
+    ]
+   },
+   {
+    "id": "ayt-ea-cografya1-4",
+    "name": "Türkiye'de Ekonomi",
+    "subs": [
+     "Tarım ve hayvancılık",
+     "Madenler ve enerji",
+     "Sanayi, ulaşım, ticaret",
+     "Turizm"
+    ]
+   },
+   {
+    "id": "ayt-ea-cografya1-5",
+    "name": "Bölgeler ve Ülkeler",
+    "subs": [
+     "Bölge kavramı ve türleri",
+     "Ülkeler arası etkileşim",
+     "Küresel ticaret ve ulaşım"
+    ]
+   },
+   {
+    "id": "ayt-ea-cografya1-6",
+    "name": "Küresel Ortam, Çevre ve Toplum",
+    "subs": [
+     "Küresel sorunlar",
+     "Doğal afetler ve yönetimi",
+     "Çevre sorunları ve sürdürülebilirlik"
+    ]
+   }
+  ]
+ }
+]

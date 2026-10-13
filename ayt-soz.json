@@ -1,0 +1,277 @@
+[
+ {
+  "id": "ayt-soz-edebiyat",
+  "track": "ayt-soz",
+  "name": "Türk Dili ve Edebiyatı",
+  "icon": "✒️",
+  "questionCount": 24,
+  "color": "#BE123C",
+  "shared": "ayt-ea-edebiyat"
+ },
+ {
+  "id": "ayt-soz-tarih1",
+  "track": "ayt-soz",
+  "name": "Tarih-1",
+  "icon": "🏺",
+  "questionCount": 10,
+  "color": "#92400E",
+  "shared": "ayt-ea-tarih1"
+ },
+ {
+  "id": "ayt-soz-cografya1",
+  "track": "ayt-soz",
+  "name": "Coğrafya-1",
+  "icon": "🗺️",
+  "questionCount": 6,
+  "color": "#1E3A8A",
+  "shared": "ayt-ea-cografya1"
+ },
+ {
+  "id": "ayt-soz-tarih2",
+  "track": "ayt-soz",
+  "name": "Tarih-2",
+  "icon": "📜",
+  "questionCount": 11,
+  "color": "#B45309",
+  "topics": [
+   {
+    "id": "ayt-soz-tarih2-1",
+    "name": "Dünya Gücü Osmanlı",
+    "subs": [
+     "Osmanlı'da devlet teşkilatı",
+     "Ekonomi ve toplum",
+     "Savaşlar ve antlaşmalar"
+    ]
+   },
+   {
+    "id": "ayt-soz-tarih2-2",
+    "name": "Değişen Dünya ve Osmanlı",
+    "subs": [
+     "Coğrafi keşifler ve etkileri",
+     "Rönesans ve reform",
+     "Sanayi Devrimi ve Osmanlı"
+    ]
+   },
+   {
+    "id": "ayt-soz-tarih2-3",
+    "name": "Uluslararası İlişkilerde Denge",
+    "subs": [
+     "Avrupa'da güç dengeleri",
+     "Osmanlı'nın izlediği denge politikası",
+     "Şark Meselesi"
+    ]
+   },
+   {
+    "id": "ayt-soz-tarih2-4",
+    "name": "I. Dünya Savaşı ve Sonuçları",
+    "subs": [
+     "Savaşın nedenleri",
+     "Cepheler ve Osmanlı",
+     "Gizli antlaşmalar",
+     "Barış antlaşmaları"
+    ]
+   },
+   {
+    "id": "ayt-soz-tarih2-5",
+    "name": "XX. Yüzyıl Başlarında Dünya",
+    "subs": [
+     "İki savaş arası dönem",
+     "Totaliter rejimler",
+     "II. Dünya Savaşı"
+    ]
+   },
+   {
+    "id": "ayt-soz-tarih2-6",
+    "name": "Soğuk Savaş Dönemi",
+    "subs": [
+     "Soğuk Savaş ve bloklar",
+     "Türkiye'nin NATO süreci",
+     "Küreselleşen dünya"
+    ]
+   },
+   {
+    "id": "ayt-soz-tarih2-7",
+    "name": "Yumuşama Dönemi ve Sonrası",
+    "subs": [
+     "Yumuşama ve sonuçları",
+     "Küreselleşme",
+     "Yeni dünya düzeni"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-soz-cografya2",
+  "track": "ayt-soz",
+  "name": "Coğrafya-2",
+  "icon": "🧭",
+  "questionCount": 11,
+  "color": "#0F766E",
+  "topics": [
+   {
+    "id": "ayt-soz-cografya2-1",
+    "name": "Doğal Sistemler",
+    "subs": [
+     "Atmosfer ve iklim elemanları",
+     "İklim tipleri ve doğal bitki örtüsü",
+     "Yer şekillerinin oluşumu"
+    ]
+   },
+   {
+    "id": "ayt-soz-cografya2-2",
+    "name": "Beşerî Sistemler",
+    "subs": [
+     "Nüfus ve özellikleri",
+     "Göç ve şehirleşme",
+     "Ekonomik faaliyetler"
+    ]
+   },
+   {
+    "id": "ayt-soz-cografya2-3",
+    "name": "Küresel Ortam: Bölgeler ve Ülkeler",
+    "subs": [
+     "Bölge türleri",
+     "Jeopolitik konum",
+     "Ülkeler arası etkileşim"
+    ]
+   },
+   {
+    "id": "ayt-soz-cografya2-4",
+    "name": "Çevre ve Toplum",
+    "subs": [
+     "Doğal afetler",
+     "Küresel çevre sorunları",
+     "Doğal kaynakların sürdürülebilirliği"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-soz-felsefe",
+  "track": "ayt-soz",
+  "name": "Felsefe Grubu",
+  "icon": "💭",
+  "questionCount": 12,
+  "color": "#7C3AED",
+  "topics": [
+   {
+    "id": "ayt-soz-felsefe-1",
+    "name": "Felsefeye Giriş",
+    "subs": [
+     "Felsefi düşüncenin özellikleri",
+     "Felsefenin işlevi",
+     "Felsefe-bilim-sanat ilişkisi"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-2",
+    "name": "Bilgi Felsefesi",
+    "subs": [
+     "Bilgi kuramları",
+     "Bilginin oluşum süreci",
+     "Doğruluk ölçütleri"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-3",
+    "name": "Bilim Felsefesi",
+    "subs": [
+     "Bilimin yapısı",
+     "Bilimsel yöntem",
+     "Bilimsel yaklaşımlar (tümevarım, tümdengelim)"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-4",
+    "name": "Varlık Felsefesi",
+    "subs": [
+     "Varlık yaklaşımları",
+     "İdealizm-materyalizm",
+     "Oluş, değişim, oluş"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-5",
+    "name": "Ahlak Felsefesi",
+    "subs": [
+     "Ahlaki yargı ve özgürlük",
+     "Ahlak görüşleri",
+     "Uygulamalı etik"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-6",
+    "name": "Sanat ve Din Felsefesi",
+    "subs": [
+     "Estetik ve sanat kuramları",
+     "Din felsefesinin soruları",
+     "Teizm, deizm, ateizm"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-7",
+    "name": "Siyaset Felsefesi",
+    "subs": [
+     "Meşruiyet ve iktidar",
+     "Adalet ve özgürlük",
+     "İnsan hakları"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-8",
+    "name": "Sosyolojiye Giriş",
+    "subs": [
+     "Sosyolojinin konusu",
+     "Sosyolojide yöntem",
+     "Birey-toplum ilişkisi"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-9",
+    "name": "Birey ve Toplum",
+    "subs": [
+     "Kültür ve toplumsallaşma",
+     "Toplumsal yapı ve değişme",
+     "Toplumsal kurumlar"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-10",
+    "name": "Toplumsal Kurumlar",
+    "subs": [
+     "Aile, eğitim",
+     "Ekonomi, siyaset, din",
+     "Kurumların işlevi"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-11",
+    "name": "Psikoloji",
+    "subs": [
+     "Psikolojinin konusu ve yöntemleri",
+     "Duyum, algı, öğrenme",
+     "Bellek, düşünme, zekâ",
+     "Kişilik ve savunma mekanizmaları"
+    ]
+   },
+   {
+    "id": "ayt-soz-felsefe-12",
+    "name": "Mantık",
+    "subs": [
+     "Kavram, önerme, akıl yürütme",
+     "Klasik mantık (sembolik)",
+     "Doğruluk-yanlışlık ve geçerlilik"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ayt-soz-dinkulturu",
+  "track": "ayt-soz",
+  "name": "Din Kültürü ve Ahlak Bilgisi",
+  "icon": "🕌",
+  "questionCount": 5,
+  "color": "#166534",
+  "shared": "tyt-dinkulturu"
+ }
+]

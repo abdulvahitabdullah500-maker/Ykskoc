@@ -1,0 +1,1009 @@
+[
+ {
+  "id": "tyt-turkce",
+  "track": "tyt",
+  "name": "Türkçe",
+  "icon": "📖",
+  "questionCount": 40,
+  "color": "#E4572E",
+  "topics": [
+   {
+    "id": "tyt-turkce-1",
+    "name": "Sözcükte Anlam",
+    "subs": [
+     "Gerçek, mecaz, terim anlam",
+     "Deyim, atasözü, ikileme",
+     "Somut-soyut, nicel-nitel anlam",
+     "Yakın anlamlı ve karşıt anlamlı sözcükler"
+    ]
+   },
+   {
+    "id": "tyt-turkce-2",
+    "name": "Cümlede Anlam",
+    "subs": [
+     "Neden-sonuç, amaç-sonuç",
+     "Koşul (şart) cümleleri",
+     "Karşılaştırma, öznellik-nesnellik",
+     "Kesinlik, olasılık, varsayım cümleleri",
+     "Cümle tamamlama ve yorumlama"
+    ]
+   },
+   {
+    "id": "tyt-turkce-3",
+    "name": "Paragrafta Ana Düşünce ve Konu",
+    "subs": [
+     "Ana düşünce, ana duygu",
+     "Konu ve başlık",
+     "Yardımcı düşünceler"
+    ]
+   },
+   {
+    "id": "tyt-turkce-4",
+    "name": "Paragrafta Yapı",
+    "subs": [
+     "Giriş-gelişme-sonuç",
+     "Paragraf tamamlama",
+     "Akışı bozan cümle",
+     "Paragrafı ikiye bölme"
+    ]
+   },
+   {
+    "id": "tyt-turkce-5",
+    "name": "Anlatım Biçimleri ve Düşünceyi Geliştirme Yolları",
+    "subs": [
+     "Açıklama, tartışma, betimleme, öyküleme",
+     "Tanımlama, örnekleme, tanık gösterme",
+     "Sayısal verilerden yararlanma, benzetme, karşılaştırma"
+    ]
+   },
+   {
+    "id": "tyt-turkce-6",
+    "name": "Ses Bilgisi",
+    "subs": [
+     "Ünlü-ünsüz uyumları",
+     "Ünsüz yumuşaması ve benzeşmesi",
+     "Ünlü düşmesi, türemesi, daralması",
+     "Kaynaştırma harfleri",
+     "Ulama, vurgu, durak"
+    ]
+   },
+   {
+    "id": "tyt-turkce-7",
+    "name": "Yazım Kuralları",
+    "subs": [
+     "Büyük harf kullanımı",
+     "Sayıların, kısaltmaların yazımı",
+     "'de/da', 'ki', 'mi' yazımı",
+     "Bitişik ve ayrı yazılan sözcükler"
+    ]
+   },
+   {
+    "id": "tyt-turkce-8",
+    "name": "Noktalama İşaretleri",
+    "subs": [
+     "Nokta, virgül, noktalı virgül",
+     "İki nokta, üç nokta, soru işareti",
+     "Kesme, tırnak, yay ayraç, kısa çizgi"
+    ]
+   },
+   {
+    "id": "tyt-turkce-9",
+    "name": "Sözcük Türleri",
+    "subs": [
+     "İsim, sıfat, zamir, zarf",
+     "Edat, bağlaç, ünlem",
+     "Fiiller: kip, kişi, çatı"
+    ]
+   },
+   {
+    "id": "tyt-turkce-10",
+    "name": "Sözcükte Yapı (Ekler)",
+    "subs": [
+     "Kök ve ek",
+     "Yapım ekleri, çekim ekleri",
+     "Basit, türemiş, birleşik sözcükler"
+    ]
+   },
+   {
+    "id": "tyt-turkce-11",
+    "name": "Sözcük Grupları",
+    "subs": [
+     "İsim ve sıfat tamlamaları",
+     "Fiilimsiler (isim-fiil, sıfat-fiil, zarf-fiil)",
+     "Edat, bağlaç, ünlem grupları"
+    ]
+   },
+   {
+    "id": "tyt-turkce-12",
+    "name": "Cümlenin Ögeleri",
+    "subs": [
+     "Yüklem ve özne",
+     "Nesne, dolaylı tümleç",
+     "Zarf tümleci, cümle dışı öge"
+    ]
+   },
+   {
+    "id": "tyt-turkce-13",
+    "name": "Cümle Türleri",
+    "subs": [
+     "Yüklemin türü ve yerine göre",
+     "Anlamına göre cümleler",
+     "Yapısına göre cümleler"
+    ]
+   },
+   {
+    "id": "tyt-turkce-14",
+    "name": "Anlatım Bozuklukları",
+    "subs": [
+     "Anlama dayalı bozukluklar",
+     "Yapıya dayalı bozukluklar (öge eksikliği, uyumsuzluk)"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-matematik",
+  "track": "tyt",
+  "name": "Temel Matematik",
+  "icon": "➗",
+  "questionCount": 40,
+  "color": "#2E86AB",
+  "topics": [
+   {
+    "id": "tyt-matematik-1",
+    "name": "Temel Kavramlar",
+    "subs": [
+     "Sayı kümeleri (N, Z, Q, R)",
+     "Ardışık sayılar",
+     "Tek-çift, pozitif-negatif sayılar",
+     "Asal sayılar ve çarpanlar"
+    ]
+   },
+   {
+    "id": "tyt-matematik-2",
+    "name": "Sayı Basamakları ve Çözümleme",
+    "subs": [
+     "Basamak değeri",
+     "Çözümleme",
+     "Taban aritmetiği"
+    ]
+   },
+   {
+    "id": "tyt-matematik-3",
+    "name": "Bölme ve Bölünebilme",
+    "subs": [
+     "Bölme algoritması",
+     "2,3,4,5,6,8,9,10,11 kuralları",
+     "Kalan bulma problemleri"
+    ]
+   },
+   {
+    "id": "tyt-matematik-4",
+    "name": "EBOB - EKOK",
+    "subs": [
+     "EBOB-EKOK alma yöntemleri",
+     "Periyodik problemler",
+     "EBOB-EKOK ilişkisi"
+    ]
+   },
+   {
+    "id": "tyt-matematik-5",
+    "name": "Rasyonel Sayılar",
+    "subs": [
+     "Rasyonel sayıların gösterimi",
+     "Sıralama",
+     "Dört işlem",
+     "Basit, bileşik, tam sayılı kesirler"
+    ]
+   },
+   {
+    "id": "tyt-matematik-6",
+    "name": "Ondalık Sayılar",
+    "subs": [
+     "Devirli ondalık sayılar",
+     "Ondalık sayılarda işlem",
+     "Ondalık-basit kesir dönüşümü"
+    ]
+   },
+   {
+    "id": "tyt-matematik-7",
+    "name": "Basit Eşitsizlikler",
+    "subs": [
+     "Eşitsizlik özellikleri",
+     "Aralık gösterimi",
+     "Eşitsizlik çözümü"
+    ]
+   },
+   {
+    "id": "tyt-matematik-8",
+    "name": "Mutlak Değer",
+    "subs": [
+     "Mutlak değer özellikleri",
+     "Mutlak değerli denklemler",
+     "Mutlak değerli eşitsizlikler"
+    ]
+   },
+   {
+    "id": "tyt-matematik-9",
+    "name": "Üslü Sayılar",
+    "subs": [
+     "Üs kuralları",
+     "Negatif ve kesirli üsler",
+     "Üslü denklemler"
+    ]
+   },
+   {
+    "id": "tyt-matematik-10",
+    "name": "Köklü Sayılar",
+    "subs": [
+     "Karekök özellikleri",
+     "Kök dışına çıkarma",
+     "Eşlenik ve rasyonelleştirme",
+     "Köklü denklemler"
+    ]
+   },
+   {
+    "id": "tyt-matematik-11",
+    "name": "Çarpanlara Ayırma",
+    "subs": [
+     "Ortak çarpan parantezi",
+     "Gruplandırma",
+     "İki kare farkı, tam kare",
+     "İki küp toplamı-farkı"
+    ]
+   },
+   {
+    "id": "tyt-matematik-12",
+    "name": "Oran - Orantı",
+    "subs": [
+     "Doğru orantı, ters orantı",
+     "Bileşik orantı",
+     "Orantı problemleri"
+    ]
+   },
+   {
+    "id": "tyt-matematik-13",
+    "name": "Denklemler",
+    "subs": [
+     "Birinci dereceden denklemler",
+     "Denklem sistemleri",
+     "İki bilinmeyenli problemler"
+    ]
+   },
+   {
+    "id": "tyt-matematik-14",
+    "name": "Problemler",
+    "subs": [
+     "Sayı ve kesir problemleri",
+     "Yaş problemleri",
+     "Yüzde, kâr-zarar",
+     "Karışım problemleri",
+     "Hareket problemleri",
+     "İşçi-havuz problemleri",
+     "Grafik problemleri"
+    ]
+   },
+   {
+    "id": "tyt-matematik-15",
+    "name": "Kümeler",
+    "subs": [
+     "Küme kavramı ve gösterim",
+     "Alt küme",
+     "Kümelerde işlemler",
+     "Venn şeması problemleri"
+    ]
+   },
+   {
+    "id": "tyt-matematik-16",
+    "name": "Fonksiyonlar",
+    "subs": [
+     "Fonksiyon tanımı",
+     "Değer bulma, tanım kümesi",
+     "Bire bir ve örten fonksiyon",
+     "Bileşke ve ters fonksiyon",
+     "Grafik yorumlama"
+    ]
+   },
+   {
+    "id": "tyt-matematik-17",
+    "name": "Permütasyon - Kombinasyon - Binom",
+    "subs": [
+     "Sayma temel ilkesi",
+     "Permütasyon",
+     "Kombinasyon",
+     "Binom açılımı"
+    ]
+   },
+   {
+    "id": "tyt-matematik-18",
+    "name": "Olasılık",
+    "subs": [
+     "Olay ve örnek uzay",
+     "Olasılık hesaplama",
+     "Bağımlı-bağımsız olaylar"
+    ]
+   },
+   {
+    "id": "tyt-matematik-19",
+    "name": "Veri - İstatistik",
+    "subs": [
+     "Merkezi eğilim ölçüleri (ortalama, ortanca, tepe değer)",
+     "Yayılım ölçüleri",
+     "Grafik ve tablo yorumlama"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-geometri",
+  "track": "tyt",
+  "name": "Geometri",
+  "icon": "📐",
+  "questionCount": 10,
+  "color": "#7B4BC4",
+  "topics": [
+   {
+    "id": "tyt-geometri-1",
+    "name": "Temel Geometrik Kavramlar",
+    "subs": [
+     "Doğru, doğru parçası, ışın",
+     "Açı çeşitleri",
+     "Paralel doğrular ve açılar"
+    ]
+   },
+   {
+    "id": "tyt-geometri-2",
+    "name": "Üçgende Açılar",
+    "subs": [
+     "İç açılar toplamı",
+     "Dış açı özellikleri",
+     "İkizkenar ve eşkenar üçgen",
+     "Muhteşem üçlü"
+    ]
+   },
+   {
+    "id": "tyt-geometri-3",
+    "name": "Dik Üçgen ve Öklid",
+    "subs": [
+     "Pisagor bağıntısı",
+     "Öklid bağıntıları",
+     "Özel dik üçgenler (30-60-90, 45-45-90)"
+    ]
+   },
+   {
+    "id": "tyt-geometri-4",
+    "name": "Üçgende Alan",
+    "subs": [
+     "Temel alan formülü",
+     "Sinüs alan formülü",
+     "Yükseklik ve alan ilişkisi"
+    ]
+   },
+   {
+    "id": "tyt-geometri-5",
+    "name": "Açıortay ve Kenarortay",
+    "subs": [
+     "İç-dış açıortay teoremleri",
+     "Kenarortay teoremleri",
+     "Diklik merkezi, ağırlık merkezi"
+    ]
+   },
+   {
+    "id": "tyt-geometri-6",
+    "name": "Üçgende Benzerlik ve Eşlik",
+    "subs": [
+     "Benzerlik oranları",
+     "Temel benzerlik teoremi",
+     "Eşlik koşulları"
+    ]
+   },
+   {
+    "id": "tyt-geometri-7",
+    "name": "Çokgenler ve Dörtgenler",
+    "subs": [
+     "Çokgenlerin özellikleri",
+     "Dörtgenlerde açı ve alan",
+     "Yamuk, paralelkenar, eşkenar dörtgen",
+     "Dikdörtgen, kare, deltoid"
+    ]
+   },
+   {
+    "id": "tyt-geometri-8",
+    "name": "Çember ve Daire",
+    "subs": [
+     "Merkez, kiriş, teğet açılar",
+     "Kiriş özellikleri",
+     "Teğet ve kesen",
+     "Daire alanı, daire dilimi"
+    ]
+   },
+   {
+    "id": "tyt-geometri-9",
+    "name": "Analitik Geometri",
+    "subs": [
+     "İki nokta arası uzaklık",
+     "Doğru denklemi ve eğim",
+     "Paralel ve dik doğrular"
+    ]
+   },
+   {
+    "id": "tyt-geometri-10",
+    "name": "Katı Cisimler",
+    "subs": [
+     "Prizmalar ve yüzey alanı",
+     "Piramit, koni, küre",
+     "Hacim hesaplamaları"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-fizik",
+  "track": "tyt",
+  "name": "Fizik",
+  "icon": "🧲",
+  "questionCount": 7,
+  "color": "#0F766E",
+  "topics": [
+   {
+    "id": "tyt-fizik-1",
+    "name": "Fizik Bilimine Giriş",
+    "subs": [
+     "Fiziğin alt dalları",
+     "Büyüklükler ve birimler",
+     "Bilim araştırma merkezleri"
+    ]
+   },
+   {
+    "id": "tyt-fizik-2",
+    "name": "Madde ve Özellikleri",
+    "subs": [
+     "Kütle, hacim, özkütle",
+     "Dayanıklılık ve adezyon-kohezyon",
+     "Yüzey gerilimi, kılcallık"
+    ]
+   },
+   {
+    "id": "tyt-fizik-3",
+    "name": "Basınç ve Kaldırma Kuvveti",
+    "subs": [
+     "Katı basıncı",
+     "Sıvı basıncı ve bileşik kaplar",
+     "Gaz basıncı",
+     "Kaldırma kuvveti ve yüzme koşulları"
+    ]
+   },
+   {
+    "id": "tyt-fizik-4",
+    "name": "Isı ve Sıcaklık",
+    "subs": [
+     "Isı-sıcaklık farkı",
+     "Öz ısı ve ısı sığası",
+     "Hâl değişimi ve ısı alışverişi",
+     "Genleşme"
+    ]
+   },
+   {
+    "id": "tyt-fizik-5",
+    "name": "Hareket ve Kuvvet",
+    "subs": [
+     "Konum, alınan yol, yer değiştirme",
+     "Sabit hızlı ve ivmeli hareket",
+     "Kuvvet, Newton yasaları",
+     "Sürtünme kuvveti"
+    ]
+   },
+   {
+    "id": "tyt-fizik-6",
+    "name": "İş, Güç ve Enerji",
+    "subs": [
+     "İş ve güç kavramları",
+     "Kinetik ve potansiyel enerji",
+     "Enerjinin korunumu",
+     "Verim"
+    ]
+   },
+   {
+    "id": "tyt-fizik-7",
+    "name": "Elektrik",
+    "subs": [
+     "Elektrostatik ve elektriklenme",
+     "Elektrik akımı, direnç, Ohm yasası",
+     "Seri-paralel devreler",
+     "Elektrik enerjisi ve güç"
+    ]
+   },
+   {
+    "id": "tyt-fizik-8",
+    "name": "Manyetizma",
+    "subs": [
+     "Mıknatıslar ve manyetik alan",
+     "Akımın manyetik etkisi",
+     "Elektromıknatıs"
+    ]
+   },
+   {
+    "id": "tyt-fizik-9",
+    "name": "Dalgalar",
+    "subs": [
+     "Dalga kavramları (dalga boyu, frekans)",
+     "Yay ve su dalgaları",
+     "Ses dalgaları",
+     "Deprem dalgaları"
+    ]
+   },
+   {
+    "id": "tyt-fizik-10",
+    "name": "Optik",
+    "subs": [
+     "Işığın yayılması ve gölge",
+     "Düzlem ve küresel aynalar",
+     "Mercekler ve kırılma",
+     "Renkler"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-kimya",
+  "track": "tyt",
+  "name": "Kimya",
+  "icon": "⚗️",
+  "questionCount": 7,
+  "color": "#B45309",
+  "topics": [
+   {
+    "id": "tyt-kimya-1",
+    "name": "Kimya Bilimi",
+    "subs": [
+     "Kimyanın alt dalları",
+     "Simyadan kimyaya",
+     "Laboratuvar güvenliği",
+     "Ölçüm ve birimler"
+    ]
+   },
+   {
+    "id": "tyt-kimya-2",
+    "name": "Atom ve Periyodik Sistem",
+    "subs": [
+     "Atom modelleri",
+     "Atomun yapısı ve izotoplar",
+     "Periyodik tablo ve özellikler",
+     "Periyodik özelliklerin değişimi"
+    ]
+   },
+   {
+    "id": "tyt-kimya-3",
+    "name": "Kimyasal Türler Arası Etkileşimler",
+    "subs": [
+     "İyonik, kovalent, metalik bağ",
+     "Zayıf etkileşimler",
+     "Güçlü-zayıf etkileşim karşılaştırması"
+    ]
+   },
+   {
+    "id": "tyt-kimya-4",
+    "name": "Maddenin Hâlleri",
+    "subs": [
+     "Katı, sıvı, gaz özellikleri",
+     "Hâl değişimleri",
+     "Gaz yasaları"
+    ]
+   },
+   {
+    "id": "tyt-kimya-5",
+    "name": "Kimyasal Tepkimeler",
+    "subs": [
+     "Tepkime denklemleri",
+     "Kütlenin korunumu",
+     "Mol kavramı ve hesaplamalar",
+     "Kimyasal tepkimelerde enerji"
+    ]
+   },
+   {
+    "id": "tyt-kimya-6",
+    "name": "Asitler, Bazlar ve Tuzlar",
+    "subs": [
+     "Asit-baz tanımları",
+     "Ayraçlar ve pH",
+     "Nötrleşme tepkimeleri",
+     "Tuzlar ve kullanım alanları"
+    ]
+   },
+   {
+    "id": "tyt-kimya-7",
+    "name": "Karışımlar",
+    "subs": [
+     "Homojen ve heterojen karışımlar",
+     "Çözünme olayı ve çözünürlük",
+     "Derişim (yüzde, ppm, molarite)",
+     "Ayırma yöntemleri"
+    ]
+   },
+   {
+    "id": "tyt-kimya-8",
+    "name": "Kimya Her Yerde",
+    "subs": [
+     "Yaygın malzemeler (polimer, seramik)",
+     "Temizlik maddeleri",
+     "Gıda kimyası",
+     "Çevre kimyası"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-biyoloji",
+  "track": "tyt",
+  "name": "Biyoloji",
+  "icon": "🧬",
+  "questionCount": 6,
+  "color": "#15803D",
+  "topics": [
+   {
+    "id": "tyt-biyoloji-1",
+    "name": "Canlıların Ortak Özellikleri",
+    "subs": [
+     "Canlılığın temel özellikleri",
+     "Canlıların yapısal organizasyonu"
+    ]
+   },
+   {
+    "id": "tyt-biyoloji-2",
+    "name": "Canlıların Temel Bileşenleri",
+    "subs": [
+     "İnorganik bileşikler (su, mineral, asit-baz)",
+     "Karbonhidratlar",
+     "Lipitler",
+     "Proteinler",
+     "Enzimler",
+     "Vitaminler, nükleik asitler, ATP"
+    ]
+   },
+   {
+    "id": "tyt-biyoloji-3",
+    "name": "Hücre ve Organeller",
+    "subs": [
+     "Hücre teorisi",
+     "Hücre zarı ve yapısı",
+     "Organeller ve görevleri",
+     "Bitki-hayvan hücresi farkları"
+    ]
+   },
+   {
+    "id": "tyt-biyoloji-4",
+    "name": "Hücre Zarından Madde Geçişi",
+    "subs": [
+     "Difüzyon ve osmoz",
+     "Aktif taşıma",
+     "Endositoz ve ekzositoz"
+    ]
+   },
+   {
+    "id": "tyt-biyoloji-5",
+    "name": "Canlıların Sınıflandırılması",
+    "subs": [
+     "Sınıflandırma basamakları",
+     "Canlılar alemi",
+     "Virüsler"
+    ]
+   },
+   {
+    "id": "tyt-biyoloji-6",
+    "name": "Hücre Bölünmeleri",
+    "subs": [
+     "Mitoz bölünme",
+     "Mayoz bölünme",
+     "Eşeyli-eşeysiz üreme"
+    ]
+   },
+   {
+    "id": "tyt-biyoloji-7",
+    "name": "Kalıtım",
+    "subs": [
+     "Mendel ilkeleri",
+     "Çaprazlamalar",
+     "Eşeye bağlı kalıtım",
+     "Kan grupları"
+    ]
+   },
+   {
+    "id": "tyt-biyoloji-8",
+    "name": "Ekosistem Ekolojisi",
+    "subs": [
+     "Ekosistemin bileşenleri",
+     "Madde döngüleri",
+     "Enerji akışı",
+     "Çevre sorunları"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-tarih",
+  "track": "tyt",
+  "name": "Tarih",
+  "icon": "🏛️",
+  "questionCount": 5,
+  "color": "#9A3412",
+  "topics": [
+   {
+    "id": "tyt-tarih-1",
+    "name": "Tarih ve Zaman",
+    "subs": [
+     "Tarih bilimi ve yöntemi",
+     "Zaman ve takvimler",
+     "Tarih yazıcılığı"
+    ]
+   },
+   {
+    "id": "tyt-tarih-2",
+    "name": "İlk ve Orta Çağ Uygarlıkları",
+    "subs": [
+     "Mezopotamya, Mısır, Anadolu uygarlıkları",
+     "Yunan ve Roma uygarlıkları",
+     "Orta Çağ'da Avrupa ve Asya"
+    ]
+   },
+   {
+    "id": "tyt-tarih-3",
+    "name": "İslamiyet Öncesi Türk Tarihi",
+    "subs": [
+     "İlk Türk devletleri",
+     "Kavimler Göçü",
+     "Uygarlık ve kültür (Orhun Yazıtları)"
+    ]
+   },
+   {
+    "id": "tyt-tarih-4",
+    "name": "İslam Tarihi ve Türk-İslam Devletleri",
+    "subs": [
+     "İslamiyet'in doğuşu",
+     "Karahanlılar, Gazneliler",
+     "Büyük Selçuklu Devleti",
+     "Anadolu'nun Türkleşmesi"
+    ]
+   },
+   {
+    "id": "tyt-tarih-5",
+    "name": "Osmanlı Devleti",
+    "subs": [
+     "Kuruluş Dönemi",
+     "Yükselme Dönemi",
+     "Duraklama ve Gerileme",
+     "Kültür ve medeniyet"
+    ]
+   },
+   {
+    "id": "tyt-tarih-6",
+    "name": "XX. Yüzyıl Başları ve Kurtuluş Savaşı",
+    "subs": [
+     "I. Dünya Savaşı ve sonuçları",
+     "Mondros ve işgaller",
+     "Cemiyetler ve kongreler",
+     "Savaşlar ve cepheler",
+     "Antlaşmalar"
+    ]
+   },
+   {
+    "id": "tyt-tarih-7",
+    "name": "Atatürk İlke ve İnkılapları",
+    "subs": [
+     "Siyasi, hukuk, eğitim, ekonomi alanında inkılaplar",
+     "Atatürk ilkeleri",
+     "Atatürk dönemi dış politika"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-cografya",
+  "track": "tyt",
+  "name": "Coğrafya",
+  "icon": "🌍",
+  "questionCount": 5,
+  "color": "#0369A1",
+  "topics": [
+   {
+    "id": "tyt-cografya-1",
+    "name": "Doğa ve İnsan",
+    "subs": [
+     "Coğrafyanın konusu ve bölümleri",
+     "Doğa-insan etkileşimi",
+     "Coğrafi konum"
+    ]
+   },
+   {
+    "id": "tyt-cografya-2",
+    "name": "Dünya'nın Şekli ve Hareketleri",
+    "subs": [
+     "Geoit ve sonuçları",
+     "Günlük ve yıllık hareket",
+     "Mevsimler ve iklim kuşakları"
+    ]
+   },
+   {
+    "id": "tyt-cografya-3",
+    "name": "İklim Bilgisi",
+    "subs": [
+     "Atmosfer ve sıcaklık",
+     "Basınç ve rüzgârlar",
+     "Nemlilik ve yağış",
+     "İklim tipleri"
+    ]
+   },
+   {
+    "id": "tyt-cografya-4",
+    "name": "Yer Şekilleri",
+    "subs": [
+     "İç kuvvetler (volkanizma, deprem, orojenez)",
+     "Dış kuvvetler (akarsu, rüzgâr, buzul, dalga)",
+     "Türkiye'nin yer şekilleri"
+    ]
+   },
+   {
+    "id": "tyt-cografya-5",
+    "name": "Nüfus ve Yerleşme",
+    "subs": [
+     "Nüfus artışı ve dağılışı",
+     "Nüfus piramitleri",
+     "Yerleşme tipleri"
+    ]
+   },
+   {
+    "id": "tyt-cografya-6",
+    "name": "Türkiye Ekonomisi",
+    "subs": [
+     "Tarım ve hayvancılık",
+     "Madenler ve enerji kaynakları",
+     "Sanayi, ulaşım, ticaret, turizm"
+    ]
+   },
+   {
+    "id": "tyt-cografya-7",
+    "name": "Doğal Afetler ve Çevre",
+    "subs": [
+     "Afet türleri ve korunma",
+     "Çevre sorunları ve sürdürülebilirlik"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-felsefe",
+  "track": "tyt",
+  "name": "Felsefe",
+  "icon": "💭",
+  "questionCount": 5,
+  "color": "#6D28D9",
+  "topics": [
+   {
+    "id": "tyt-felsefe-1",
+    "name": "Felsefeye Giriş",
+    "subs": [
+     "Felsefe nedir, felsefi düşüncenin özellikleri",
+     "Felsefe-bilim-sanat-din ilişkisi",
+     "Felsefenin işlevi"
+    ]
+   },
+   {
+    "id": "tyt-felsefe-2",
+    "name": "Bilgi Felsefesi",
+    "subs": [
+     "Bilgi kuramı (epistemoloji)",
+     "Rasyonalizm, empirizm, kritisizm",
+     "Septisizm, entüisyonizm, pozitivizm"
+    ]
+   },
+   {
+    "id": "tyt-felsefe-3",
+    "name": "Varlık Felsefesi",
+    "subs": [
+     "Varlığın yapısı",
+     "İdealizm, materyalizm, düalizm",
+     "Oluş ve değişim"
+    ]
+   },
+   {
+    "id": "tyt-felsefe-4",
+    "name": "Ahlak Felsefesi",
+    "subs": [
+     "Ahlaki yargı ve özgürlük",
+     "Ödev ahlakı, faydacılık, erdem etiği",
+     "Ahlaki karar süreci"
+    ]
+   },
+   {
+    "id": "tyt-felsefe-5",
+    "name": "Sanat ve Din Felsefesi",
+    "subs": [
+     "Sanat felsefesi (estetik)",
+     "Din felsefesinin temel soruları",
+     "Teizm, deizm, ateizm, agnostisizm"
+    ]
+   },
+   {
+    "id": "tyt-felsefe-6",
+    "name": "Siyaset ve Bilim Felsefesi",
+    "subs": [
+     "Siyaset felsefesi kavramları",
+     "Bilim felsefesi ve bilimin yapısı",
+     "Bilimsel yöntem"
+    ]
+   },
+   {
+    "id": "tyt-felsefe-7",
+    "name": "İlk Çağ Felsefesi",
+    "subs": [
+     "Milet okulu, Elea okulu",
+     "Sokrates, Platon, Aristoteles",
+     "Helenistik felsefe"
+    ]
+   },
+   {
+    "id": "tyt-felsefe-8",
+    "name": "İlk ve Orta Çağ Felsefesi",
+    "subs": [
+     "Hristiyan ve İslam felsefesi",
+     "MS 2-MS 15. yüzyıl filozofları",
+     "Türk-İslam düşünürleri"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tyt-dinkulturu",
+  "track": "tyt",
+  "name": "Din Kültürü ve Ahlak Bilgisi",
+  "icon": "🕌",
+  "questionCount": 5,
+  "color": "#166534",
+  "topics": [
+   {
+    "id": "tyt-dinkulturu-1",
+    "name": "Bilgi ve İnanç",
+    "subs": [
+     "İslam'da bilginin kaynakları",
+     "İnanç esasları",
+     "İman ve İslam ilişkisi"
+    ]
+   },
+   {
+    "id": "tyt-dinkulturu-2",
+    "name": "İslam ve İbadet",
+    "subs": [
+     "İbadetin anlamı ve amacı",
+     "Namaz, oruç, zekât, hac",
+     "Kurban ve diğer ibadetler"
+    ]
+   },
+   {
+    "id": "tyt-dinkulturu-3",
+    "name": "Din ve Ahlak",
+    "subs": [
+     "Ahlakın tanımı ve ilkeleri",
+     "İslam'da ahlaki değerler",
+     "Aile ve toplum ahlakı"
+    ]
+   },
+   {
+    "id": "tyt-dinkulturu-4",
+    "name": "Hz. Muhammed'in Hayatı",
+    "subs": [
+     "Mekke Dönemi",
+     "Medine Dönemi",
+     "Örnek ahlakı ve hadisler"
+    ]
+   },
+   {
+    "id": "tyt-dinkulturu-5",
+    "name": "Kur'an ve İslam Düşüncesi",
+    "subs": [
+     "Kur'an'ın ana konuları",
+     "İslam düşüncesinde yorumlar (mezhep, tasavvuf)",
+     "Dinler ve İslam"
+    ]
+   }
+  ]
+ }
+]
